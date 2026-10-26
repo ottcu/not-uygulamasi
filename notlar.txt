@@ -3,3 +3,9 @@ cd: klasör değiştirir
 mkdir: klasör oluşturur
 cat: dosyanın içeriğini terminale yazdırır
 cp: klasörleri kopyalar
+
+git init: yeni bir repo başlatır
+git add: dosyayı staging area'ya alır
+git commit: değişiklikleri kalıcı olarak kaydeder (snapshot alır)
+git log: commit geçmişini listeler
+git branch: dalları listeler
