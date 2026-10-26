@@ -1,0 +1,5 @@
+ls: listeler
+cd: klasör değiştirir
+mkdir: klasör oluşturur
+cat: dosyanın içeriğini terminale yazdırır
+cp: klasörleri kopyalar
